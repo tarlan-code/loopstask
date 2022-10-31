@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <!-- !Task-1 -->
+    <script> //Task-1
+        var num = 13,count=0;
+        var numForTest = num;
+        while (num>=2) {
+            num /= 2;
+            count++;   
+        }
+        
+        if (num>1){ //Altdakı kod bloku eger 2-nin qüvvəti olmasa hansı qüvvətə daha yaxın olacağını tapmaq üçündür
+            if(numForTest-(2**count) <= (2**(count+1))-numForTest){
+                console.log(count)
+            }
+
+            else{
+                console.log(count+1)
+            }
+        }
+
+        else{
+            console.log(count)
+        }
+    </script>
+
+    
+
+    <!-- !Task-2  -->
+    <!-- <script>
+        var num = 1907,
+            sum = 0;
+        
+        while(num != 0){
+            sum += num % 10
+            num = (num / 10|0);
+        }
+
+        console.log(sum)
+    </script> -->
+
+    <!-- !Task-3 -->
+    <!-- <script>
+        var num = 2,
+            count = 0;
+        
+        for (var i = 2; i < num; i++) 
+        {
+            if (num%i==0) {
+                count++
+            }
+        }
+
+        if (count == 0) {
+            console.log("Ədəd sadədir")
+            }
+
+        else{
+            console.log("Ədəd mürəkkəbdir")
+            }
+    </script> -->
+</body>
+</html>
