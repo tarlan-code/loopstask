@@ -51,7 +51,7 @@ else
 
 
 
-//#region Task-2
+#region Task-2
 //using System;
 
 //int sum = 0;
@@ -64,7 +64,7 @@ else
 //}
 
 //Console.WriteLine(sum);
-//#endregion
+#endregion
 
 
 
@@ -75,29 +75,37 @@ else
 
 
 
-//#region Task-3
+#region Task-3
 
 
 //int count = 0;
 //Console.WriteLine("Eded: ");
 //int num = Convert.ToInt32(Console.ReadLine());
 
-//for (int i = 2; i < num; i++)
+//if (num<=1)
 //{
-//    if (num % i == 0)
-//    {
-//        count++;
-//    }
-//}
-
-//if (count == 0)
-//{
-//    Console.WriteLine("Eded sadedir");
+//    Console.WriteLine("Eded ne sade ne de mürekkeb deyil");
 //}
 
 //else
 //{
-//    Console.WriteLine("Eded mürekkebdir");
+//    for (int i = 2; i < num; i++)
+//    {
+//        if (num % i == 0)
+//        {
+//            count++;
+//        }
+//    }
+
+//    if (count == 0)
+//    {
+//        Console.WriteLine("Eded sadedir");
+//    }
+
+//    else
+//    {
+//        Console.WriteLine("Eded mürekkebdir");
+//    }
 //}
 
-//#endregion
+#endregion

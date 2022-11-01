@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Code Academy\\Loops\\CSharp\\Loops\\Loops\\Loops.csproj": {}
+    "C:\\Users\\User\\Desktop\\Code Academy\\Loops\\C#\\Loops\\Loops\\Loops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Code Academy\\Loops\\CSharp\\Loops\\Loops\\Loops.csproj": {
+    "C:\\Users\\User\\Desktop\\Code Academy\\Loops\\C#\\Loops\\Loops\\Loops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Code Academy\\Loops\\CSharp\\Loops\\Loops\\Loops.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Code Academy\\Loops\\C#\\Loops\\Loops\\Loops.csproj",
         "projectName": "Loops",
-        "projectPath": "C:\\Users\\User\\Desktop\\Code Academy\\Loops\\CSharp\\Loops\\Loops\\Loops.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\Code Academy\\Loops\\C#\\Loops\\Loops\\Loops.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Code Academy\\Loops\\CSharp\\Loops\\Loops\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Code Academy\\Loops\\C#\\Loops\\Loops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
